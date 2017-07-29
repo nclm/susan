@@ -1,4 +1,4 @@
-## FONTLOG for Susan
+## Fontlog for Susan
 
 This file provides detailed information on the Susan font software. This information should be distributed along with the Susan fonts and any derivative works.
 
