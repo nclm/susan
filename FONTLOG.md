@@ -1,25 +1,20 @@
-FONTLOG for Susan
-===
+# FONTLOG for Susan
 
 This file provides detailed information on the Susan font software. This information should be distributed along with the Susan fonts and any derivative works.
 
-Presentation
----
+## Presentation
 
 Susan is a free recreation of the grotesque typeface used in the end credits of the first Doctor Who serials.
 
-License
----
+## License
 
 Susan is released under the OFL 1.1 — http://scripts.sil.org/OFL
 
-Changelog
----
+## Changelog
 
 No public release yet.
 
-Contributions
----
+## Contributions
 
 When you make modifications, be sure to add your name (N), web-address (W) and description (D).
 
