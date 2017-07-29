@@ -25,4 +25,6 @@ The repository archives a very early state of the font from the summer of 2015. 
 
 The files are licensed under [SIL OFL](http://scripts.sil.org/OFL).
 
+* See also : [FONTLOG.md](FONTLOG.md)
+
 ![reference](documentation/letters_reference.png)
