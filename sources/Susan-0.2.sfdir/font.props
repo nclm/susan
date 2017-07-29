@@ -1,0 +1,67 @@
+SplineFontDB: 3.0
+FontName: Susan
+FullName: Susan
+FamilyName: Susan
+Weight: Regular
+Copyright: 
+UComments: "2015-5-2: Created with FontForge (http://fontforge.org)"
+Version: 0.2
+ItalicAngle: 0
+UnderlinePosition: -99
+UnderlineWidth: 49
+Ascent: 814
+Descent: 186
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 187 1137122444 3767572]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1430548349
+ModificationTime: 1501347898
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+Encoding: ISO8859-1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -128
+AntiAlias: 1
+FitToEm: 1
+WidthSeparation: 50
+WinInfo: 11 11 8
+BeginPrivate: 0
+EndPrivate
+Grid
+-1000 693 m 0
+ 2400 693 l 1024
+  Named: "Overshoot_3"
+-1000 506.999969482 m 0
+ 2400 507 l 1024
+  Named: "Overshoot_2"
+-1000 -7 m 0
+ 2400 -7 l 1024
+  Named: "Overshoot_1"
+-1000 686 m 0
+ 2000 686 l 1024
+  Named: "Cap-Height"
+-1000 500 m 0
+ 2000 500 l 1024
+  Named: "X-Height"
+EndSplineSet
+EndSplineFont

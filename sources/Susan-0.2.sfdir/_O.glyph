@@ -1,0 +1,19 @@
+StartChar: O
+Encoding: 79 79 16
+Width: 340
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+168 693 m 0
+ 268 693 317 594 318 336 c 0
+ 318 45 254 -7 168 -7 c 0
+ 82 -7 18 44 18 336 c 0
+ 18 594 68 693 168 693 c 0
+168 65 m 0
+ 264 65 257 628 168 629 c 0
+ 78 629 72 65 168 65 c 0
+EndSplineSet
+Validated: 33
+EndChar

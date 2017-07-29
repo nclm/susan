@@ -1,0 +1,22 @@
+StartChar: U
+Encoding: 85 85 22
+Width: 332
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+221 686 m 1
+ 306 686 l 1
+ 306 157 l 2
+ 306 43 257 -7 164 -7 c 1
+ 71 -7 21 43 21 157 c 2
+ 21 686 l 1
+ 107 686 l 1
+ 107 143 l 2
+ 107 100 114 57 164 57 c 0
+ 214 57 221 100 221 143 c 2
+ 221 686 l 1
+EndSplineSet
+Validated: 1
+EndChar

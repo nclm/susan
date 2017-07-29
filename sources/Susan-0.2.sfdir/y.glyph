@@ -1,0 +1,24 @@
+StartChar: y
+Encoding: 121 121 51
+Width: 293
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+198 500 m 1
+ 277 500 l 1
+ 198 36 l 2
+ 169 -128 156 -164 91 -164 c 0
+ 19 -164 12 -96 12 -50 c 1
+ 62 -50 l 2
+ 62 -58 62 -114 91 -114 c 0
+ 120 -114 126 -79 119 -43 c 2
+ 12 500 l 1
+ 91 500 l 1
+ 141 150 l 1
+ 148 150 l 1
+ 198 500 l 1
+EndSplineSet
+Validated: 33
+EndChar
