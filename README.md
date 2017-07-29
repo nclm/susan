@@ -3,7 +3,7 @@
 _Susan_ was a project aiming to recreate the grotesque typeface used in the end credits of the first [_Doctor Who_](http://en.wikipedia.org/wiki/Doctor_Who) serials from the BBC. I’m unlikely to keep going with this project now.
 
 * http://probablement.net/susan
-* http://probablement.net/susan/archive/
+* http://probablement.net/susan/archive
 
 ### About the name
 
@@ -21,6 +21,8 @@ The BBC designers seems to have used a grotesque typeface from Stephenson Blake,
 
 ### About the font
 
-The repository archives a very early state of the font from the summer of 2015. The 26 latin letters has been traced from the title cards. Uppercase and lowercase. If anything, it’s a pre-drawing, with great room to improve upon. No diacritics, punctuation, figures, other alphabet, or anything else. Are hosted here an initial source file for Fontforge, and a raw export to OpenType.
+The repository archives a very early state of the font from the summer of 2015. The 26 latin letters has been traced from the title cards. Uppercase and lowercase. If anything, it’s a pre-drawing, with great room to improve upon. No diacritics, punctuation, figures, other alphabet, or anything else. Are hosted here an initial source file for Fontforge and a raw OpenType export.
+
+The files are licensed under [SIL OFL](http://scripts.sil.org/OFL).
 
 ![reference](documentation/letters_reference.png)
