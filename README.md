@@ -27,4 +27,12 @@ The files are licensed under [SIL OFL](http://scripts.sil.org/OFL).
 
 * See also : [FONTLOG.md](FONTLOG.md)
 
+---
+
+Preview of the font’s current state ↓
+![preview](documentation/susan-0.2_preview.png)
+
+---
+
+Part of the drawing reference ↓
 ![reference](documentation/letters_reference.png)
