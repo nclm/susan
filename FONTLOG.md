@@ -19,5 +19,5 @@ No public release yet.
 When you make modifications, be sure to add your name (N), web-address (W) and description (D).
 
 N: Nicolas Maravitti  
-W: probablement.net  
+W: http://probablement.net  
 D: Creation
