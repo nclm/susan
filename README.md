@@ -21,7 +21,7 @@ The BBC designers seems to have used a grotesque typeface from Stephenson Blake,
 
 ### About the font
 
-The repository archives a very early state of the font from the summer of 2015. The 26 latin letters has been traced from the title cards. Uppercase and lowercase. If anything, it’s a pre-drawing, clumsy at best, with great room to improve upon. No diacritics, punctuation, figures, other alphabet, kerning, or anything else. Are hosted here an initial source file for Fontforge and a raw OpenType export.
+The repository archives a very early state of the font from the summer of 2015. The 26 latin letters has been traced from the title cards. Uppercase and lowercase. If anything, it’s a pre-drawing, clumsy at best, with great room to improve upon. No diacritics, punctuation, figures, other alphabet, kerning, or anything else. Hosted here are an initial source file for Fontforge and a raw OpenType export.
 
 The files are licensed under [SIL OFL](http://scripts.sil.org/OFL).
 
