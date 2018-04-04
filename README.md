@@ -2,8 +2,8 @@
 
 _Susan_ was a project aiming to recreate the grotesque typeface used in the end credits of the first [_Doctor Who_](http://en.wikipedia.org/wiki/Doctor_Who) serials from the BBC. I’m unlikely to keep going with this project now.
 
-* http://probablement.net/susan
-* http://probablement.net/susan/archive
+* http://avant.probablement.net/susan
+* http://avant.probablement.net/susan/archive
 
 ### About the name
 
